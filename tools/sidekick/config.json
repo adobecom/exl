@@ -1,5 +1,11 @@
 {
   "project": "EXL",
+  "libraries": [
+    {
+      "text": "Blocks",
+      "paths": ["https://main--milo--adobecom.hlx.page/docs/library/blocks.json"]
+    }
+  ],
   "plugins": [
     {
       "id": "library",
