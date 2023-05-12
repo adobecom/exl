@@ -1,6 +1,5 @@
 {
   "project": "EXL",
-  "host": "www.adobe.com",
   "plugins": [
     {
       "id": "library",
