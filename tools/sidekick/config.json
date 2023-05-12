@@ -3,7 +3,7 @@
   "libraries": [
     {
       "text": "Blocks",
-      "paths": ["https://main--milo--adobecom.hlx.page/docs/library/blocks.json"]
+      "paths": ["https://milo.adobe.com/docs/library/blocks.json"]
     }
   ],
   "plugins": [
@@ -33,7 +33,7 @@
       "environments": [
         "edit"
       ],
-      "url": "https://main--milo--adobecom.hlx.page/tools/loc/index.html?project=exl--adobecom",
+      "url": "https://milo.adobe.com/tools/loc/index.html?project=exl--adobecom",
       "passReferrer": true,
       "passConfig": true,
       "excludePaths": [ "/**" ],
