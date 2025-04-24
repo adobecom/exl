@@ -1,5 +1,6 @@
 {
   "project": "EXL",
+  "trustedHosts": ["milo.adobe.com"],
   "libraries": [
     {
       "text": "Blocks",
